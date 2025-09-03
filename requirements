@@ -1,0 +1,11 @@
+transformers>=4.40.0
+torch>=2.0.0
+gradio>=4.0.0
+vllm>=0.5.0
+locust>=2.8.0
+faker>=18.0.0
+json_repair>=0.8.0
+wandb>=0.16.0
+numpy>=1.26.0
+requests>=2.31.0
+pydantic>=2.0.0
