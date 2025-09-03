@@ -1,4 +1,4 @@
-# FineTuning_QwenLLM_FromScratch
+# 🧠 Fine-Tuning & Deploying Qwen LLM for News Analysis
 
 # 📜 Overview
 This project is a comprehensive demonstration of fine-tuning and deploying a large language model (LLM) for specialized natural language processing (NLP) tasks, focusing on Arabic news analysis. It leverages the Qwen2.5-1.5B-Instruct model, a lightweight yet powerful LLM, fine-tuned to excel in two key tasks: structured data extraction and translation of Arabic news articles. The project combines cutting-edge tools like LLaMA-Factory for fine-tuning, vLLM for high-performance inference, and Gradio for an interactive user interface, making it a robust solution for processing and analyzing Arabic text.
